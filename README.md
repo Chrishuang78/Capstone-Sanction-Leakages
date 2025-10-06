@@ -1,4 +1,4 @@
-# Sanctions Leakage – Reproduction Guide (Updated)
+# Sanctions Leakage – Reproduction Guide
 
 This repository accompanies the study **“Leakages in Russian Sanctions: Evidence from 20 Critical Products.”** It documents how to reproduce the EXIOBASE MRIO simulations and UN Comtrade visuals and how each script maps to tables/figures in the thesis.
 
