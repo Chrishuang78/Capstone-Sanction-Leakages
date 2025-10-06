@@ -48,6 +48,7 @@ install.packages(c(
 
 ## 2) Data & Folder Structure
 
+All datasets used are in the `data` branch,
 Create a `data/` folder at repo root and populate with:
 - **EXIOBASE3** EXIOBASE3 MRIO data should be downloaded through `pymrio` package (guidlines: https://pymrio.readthedocs.io/en/latest/notebooks/autodownload.html)
 - **UN Comtrade extracts** CSV: e.g., `data/TradeData_2_26_2025_14_50_13.csv` (or your filename).
@@ -73,6 +74,8 @@ data/
 ---
 
 ## 3) How to Reproduce
+
+All codes are in the `codes` branch.
 
 ### A. Input–Output simulations (Figures 2, 3, 7 in thesis)
 Script: `mrio.py`  
